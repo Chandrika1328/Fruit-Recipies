@@ -1,4 +1,4 @@
-# Fruit Recipies
+# Fruit Recipes
 
 A new flutter module project.
 
