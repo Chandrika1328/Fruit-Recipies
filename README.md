@@ -1,4 +1,4 @@
-# zodica
+# Fruit Recipies
 
 A new flutter module project.
 
